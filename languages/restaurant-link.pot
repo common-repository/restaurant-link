@@ -1,0 +1,306 @@
+
+"Project-Id-Version: restaurant-link\n"
+"POT-Creation-Date: 2020-05-18 15:58+0100\n"
+"PO-Revision-Date: 2020-05-18 15:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-restaurant-link-back-menu.php:18
+msgid "Reservation LINK"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:49
+msgid "Description"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:58
+msgid "Email pour recevoir les réservations"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:70
+msgid "Nombre de personnes minimum par table"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:81
+msgid "Nombre de personnes maximum par table"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:93
+msgid "Heure d'ouverture du midi"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:105
+msgid "Heure de fermeture du midi"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:116
+msgid "Heure d'ouverture du soir"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:128
+msgid "Heure de fermeture du soir"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:140
+msgid "Message de succès"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:151
+msgid "Message d'erreur"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:162
+msgid "Message d'erreur date de réservation"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:173
+msgid "Les tables du restaurant"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:187
+msgid ""
+"Restaurant link vous offre la possibilité de créer un formulaire de "
+"réservation dynamique pour votre site internet."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:192
+msgid ""
+"Copier ce texte &laquo; [restaurant_link_reservation_form] &raquo; et "
+"insérer dans le contenu \n"
+"                d'une page à l'endroit où faire apparaître le formulaire de "
+"réservation. \n"
+"                Un shortcode vous permet d'insérer votre module de "
+"réservation à l'endroit \n"
+"                qui convient dans le contenu de votre site."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:202
+msgid ""
+"Une notification sera envoyée à cette adresse lors de \n"
+"                chaque réservation. Une seule adresse email permise."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:210
+msgid ""
+"Il ne sera pas possible de faire une réservation pour \n"
+"                un nombre inférieur à cette valeur (champ nombre de "
+"personnes du formulaire)."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:218
+msgid ""
+"Il ne sera pas possible de faire une réservation pour \n"
+"                un nombre de personnes supérieur à cette valeur (champ "
+"nombre de personnes du formulaire)."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:227
+msgid ""
+"Permet de personnaliser le message qui s'affiche lorsque la \n"
+"                demande de réservation a bien été enregistrée, exemple: "
+"\"Merci, votre réservation a été enregistrée \n"
+"                avec succès, un email de confirmation vous a été envoyé.\""
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:236
+msgid ""
+"Permet de personnaliser le message qui s'affiche lorsque la demande \n"
+"                de réservation n'a pas pu être enregistrée correctement, "
+"exemple: \"Malheureusement, votre réservation \n"
+"                n'a pas pu être enregistrée, merci d'effectuer une nouvelle "
+"tentative. \""
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:245
+msgid ""
+"Permet de personnaliser le message qui s'affiche lorsque la date de \n"
+"                réservation choisie est antérieure à la date du jour, "
+"exemple: \"La date choisie est passée ! Choisissez \n"
+"                une autre date."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:254
+msgid "Les tables du restaurant sont organisées comme suit."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:255
+msgid ""
+"Pour chaque table ajoutée (table 1 X:Y) il est possible de définir la \n"
+"                capacité minimale (X)et maximale (Y) de la table. En "
+"fonction du nombre de personnes saisies dans le \n"
+"                formulaire, seules les tables avec une capacité adaptées "
+"pourront être sélectionnées. Le bouton \"Nouvelle table\" \n"
+"                permet d'ajouter une nouvelle table. Chaque table est "
+"numérotée en fonction de son ordre de création. \n"
+"                Nous vous recommandons donc de suivre la numérotation de vos "
+"tables pour les créer dans le plugin. \n"
+"                Vous pouvez également supprimer une table. Attention à ne "
+"pas oublier d'enregistrer vos paramètres."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:261
+msgid ""
+"Vous avez la possibilité de compléter votre page de réservation avec \n"
+"                le plan de votre restaurant (sous la forme d'une image jpeg)."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:268
+msgid "Permet de définir la plage horaire de réservation du midi."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:275
+msgid "Permet de définir la plage horaire de réservation du soir."
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:289
+msgid ""
+"Merci de remplir tous les champs obligatoires pour activer le short code de "
+"réservation"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:345
+msgid ""
+"Attention : l'heure d'ouverture du midi doit être inférieur à l'heure de "
+"fermeture"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:375
+msgid ""
+"Attention : l'heure de fermeture du midi doit être supérieur à l'heure "
+"d'ouverture"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:403
+msgid ""
+"Attention : l'heure d'ouverture du soir doit être inférieur à l'heure de "
+"fermeture"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:432
+msgid ""
+"Attention : l'heure de fermeture du soir doit être supérieur à l'heure "
+"d'ouverture"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:534
+#: module/restaurant-link-shortcode.php:23
+#: module/restaurant-link-shortcode.php:77
+msgid "Table"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:541
+msgid "Êtes-vous sûr de supprimer la table"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:543
+msgid "Supprimer"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:560
+#: includes/class-restaurant-link-back-menu.php:566
+msgid "Nouvelle table"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:569
+#: module/restaurant-link-shortcode.php:22
+#: module/restaurant-link-shortcode.php:65
+msgid "Nombre des personnes"
+msgstr ""
+
+#: includes/class-restaurant-link-back-menu.php:571
+msgid ""
+"Pour chaque table saisir le nombre min de personnes:le nombre de personnes "
+"Exemple 10:20"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:11
+msgid "Nouvelle réservation"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:12
+msgid "Bonjour"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:13
+msgid "Vous avez une nouvelle réservation"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:14
+msgid "Nom & prénom"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:15
+msgid "E-mail"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:16
+msgid "Tél"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:18
+#: module/restaurant-link-shortcode.php:20
+#: module/restaurant-link-shortcode.php:61
+msgid "Date de réservation"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:18
+msgid " à "
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:25
+#: module/restaurant-link-shortcode.php:139
+msgid "Message"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:48
+msgid "Nom et prénom"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:52
+msgid "Email"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:56
+msgid "Téléphone"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:86
+#: module/restaurant-link-shortcode.php:88
+msgid "Pour "
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:86
+msgid " jusqu'à "
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:86
+#: module/restaurant-link-shortcode.php:88
+msgid " personne"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:86
+#: module/restaurant-link-shortcode.php:88
+msgid "Table "
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:96
+msgid "Autre choix"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:103
+msgid "Heure de réservation"
+msgstr ""
+
+#: module/restaurant-link-shortcode.php:145
+msgid "Réserver maintenant"
+msgstr ""
+
